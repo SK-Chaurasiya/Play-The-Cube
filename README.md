@@ -10,8 +10,8 @@ _The Cube_ is an immersive and interactive **3D puzzle game** inspired by the cl
 <!-- ![The Cube Screenshot](https://your-screenshot-url.png) -->
 
 ## 🚀 Live Demo
-👉 [Play it on CodePen]([https://codepen.io/your-link](https://codepen.io/sk-chaurasiya))  
-👉 [Try it Online]([https://your-live-url.com](https://codepen.io/sk-chaurasiya/full/LEpymxm))
+👉 [Play it on CodePen]([https://codepen.io/sk-chaurasiya])  
+👉 [Try it Online]([https://codepen.io/sk-chaurasiya/full/LEpymxm])
 
 
 ## 🧩 Features
