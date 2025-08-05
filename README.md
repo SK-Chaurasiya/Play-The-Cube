@@ -54,7 +54,7 @@ _The Cube_ is an immersive and interactive **3D puzzle game** inspired by the cl
 
 ## 🧑‍💻 Author
 
-**White Hat Designer** – [@SK-Chaurasiya]([https://github.com/yourhandle](https://github.com/SK-Chaurasiya/))
+**White Hat Designer** – [@SK-Chaurasiya]((https://github.com/SK-Chaurasiya/))
 
 Feel free to reach out or contribute!
 
